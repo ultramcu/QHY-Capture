@@ -1,0 +1,26 @@
+# build artefacts
+*.o
+*.obj
+*.a
+*.dylib
+*.so
+*.dll
+qhy_capture
+qhy_capture.exe
+
+# captured frames produced by ./qhy_capture
+frame.pgm
+frame.ppm
+*.pgm
+*.ppm
+
+# logs
+log/
+*.log
+
+# editors / OS
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
