@@ -155,13 +155,11 @@ before reading. If your camera reports `BadFrames` repeatedly, drop
 
 ## License
 
-[Mozilla Public License 2.0](LICENSE) — `SPDX-License-Identifier: MPL-2.0`.
+[MIT](LICENSE) — `SPDX-License-Identifier: MIT`.
 
-You can drop `qhy_capture.c` into any project (open or closed),
-commercial or otherwise. If you modify `qhy_capture.c` itself, the
-modified file must remain under MPL 2.0 and its source must be made
-available alongside the binary. The rest of your application is
-unaffected.
+Drop `qhy_capture.c` into any project (open or closed, commercial
+or otherwise). Just keep the copyright + permission notice with
+the source.
 
 The QHYCCD SDK itself is **not** covered by this license — see
 [qhyccd.com](https://www.qhyccd.com) for the SDK's own terms.
